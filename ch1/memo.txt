@@ -1,0 +1,2 @@
+16GBのUSBでexFATでは認識せず，FAT32で認識
+minisforum GK41を使用
